@@ -12,6 +12,9 @@ ii -> Non Linear
 Different Linear DS:
 **************************************
 i -> Array
+
 ii -> Linked List
+
 iii -> Stack
+
 iv -> Queue
