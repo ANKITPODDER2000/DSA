@@ -7,6 +7,7 @@ For example, we can store a list of items having the same data-type using the ar
 Different Data Structure :
 **************************************
 i  -> Linear Data Structure
+
 ii -> Non Linear
 
 Different Linear DS:
